@@ -1,4 +1,4 @@
-# Snake with Deep Reinforcement Learning — ללמד מחשב לשחק סנייק
+# Snake with Deep Reinforcement Learning - ללמד מחשב לשחק סנייק
 
 סוכן **Deep Q-Learning** שלומד לשחק Snake לבד, בלי שום דוגמה של משחק "נכון". הוא לומד רק מתגמולים: ‎+10 על אוכל, ‎−10 על מוות.
 
